@@ -4,3 +4,5 @@ user_auth.py
 user_with_auth.py
 .cache
 .venv/
+/spotipy_examples
+../.flask_session/
